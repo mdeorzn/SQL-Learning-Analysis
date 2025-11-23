@@ -21,4 +21,3 @@ GROUP BY
     Age, EducationLevel, JobTitle
 ORDER BY 
     Age;
-
